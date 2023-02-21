@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
 
 ## Set working directory
-setwd("~/INFO\ 201/PS/ps05-gapminder-jvdyfu")
+setwd("~/INFO\ 201/PS/ps5-gapminder-jvdyfu")
 getwd()
 
 ## 2. Load data from csv file
